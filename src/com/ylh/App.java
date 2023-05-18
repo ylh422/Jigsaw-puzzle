@@ -9,5 +9,7 @@ public class App {
         System.out.println("游戏版本3");
         System.out.println("hello git ");
 
+        System.out.println("游戏版本2");
+        System.out.println("hello git2 ");
     }
 }
